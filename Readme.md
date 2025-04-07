@@ -178,4 +178,16 @@ Semantic elements give meaning to your content:
 HTML is more than just a language—it's the foundation of the modern web. By mastering HTML, you’re not only learning how to create web pages but also setting the stage for a deeper understanding of CSS, JavaScript, and other web technologies. Continue exploring, practicing, and refining your skills to stay ahead in the ever-evolving world of web development.
 
 Happy coding and welcome to the web development journey! 🚀
+
+
+## 13. Document Creator Information 👤
+
+This document was created by **[Jean Marie Daniel Vianney Guedegbe]**.  
+For more information or inquiries, feel free to reach out via:
+
+- **Email:** [danielguedegbe10027@gmail.com]  
+- **Website:** [https://gdaniel.dev]  
+- **GitHub:** [https://github.com/daniel10027]
+
+Thank you for reading!
 ```
