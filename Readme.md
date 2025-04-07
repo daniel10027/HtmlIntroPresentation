@@ -1,4 +1,3 @@
-```markdown
 # HTML: A Comprehensive Guide 🚀
 
 Welcome to this complete presentation on **HTML** (HyperText Markup Language)! This README is designed as a one-stop resource for anyone looking to master the essentials and nuances of HTML. Whether you're just starting out or looking to refresh your skills, you'll find everything you need right here.
